@@ -7,5 +7,5 @@ Master Branch: The master branch contains all of the necessary classes and files
 
 Jar Branch: The Jar branch contains a runnable JAR file, so that you can easily download it and run it without having to copy down all of the code or files. It is a quick and easy way to test out the application yourself
 
-Video Branch: For a quick visual tour of the functionality of the wav player, you can watch a short video in the "video" branch
+
 
